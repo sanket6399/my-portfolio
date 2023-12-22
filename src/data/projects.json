@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Credit Risk Management Using ML with XAI",
+    "imageSrc": "projects/project.png",
+    "description": "Spearheaded a Credit Risk Management project utilizing Machine Learning with eXplainable AI (XAI), enhancing predictive accuracy and transparency in assessing credit risks.",
+    "skills": ["ML", "Big Data", "AI", "Flask", "Docker"],
+    "source": "https://github.com/sanket6399/credit_risk_management"
+  },
+  {
+    "title": "News Article Clustering Using DP, Louvain & Leiden",
+    "imageSrc": "projects/project1.png",
+    "description": "Led a project on News Article Clustering employing Density-based, Louvain, and Leiden algorithms, streamlining information discovery and categorization for enhanced user experience.",
+    "skills": ["Dynamic Programming", "Clustering Algorithms"],
+    "source": "https://github.com/sanket6399/News_Clustering_Comparisons"
+  },
+  {
+    "title": "Resource Allocation Framework using Salesforce",
+    "imageSrc": "projects/framework.png",
+    "description": "Pioneered the development of an IoT-based Smart City system integrating advanced Image Processing techniques, fostering efficient urban management and enhancing the overall quality of life.",
+    "skills": ["REST", "Salesforce", "SOQL", "Apex"],
+    "source": "https://www.github.com/sanket6399/"
+  },
+  {
+    "title": "IOT Based Smart City using Image Processing",
+    "imageSrc": "projects/iot.png",
+    "description": "Pioneered the development of an IoT-based Smart City system integrating advanced Image Processing techniques, fostering efficient urban management and enhancing the overall quality of life.",
+    "skills": ["Python", "OpenCV", "Arduino Programming"],
+    "source": "https://ieeexplore.ieee.org/document/9214157"
+  }
+]

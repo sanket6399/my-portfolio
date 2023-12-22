@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Engineer II",
+    "organisation": "Barclays",
+    "startDate": "October, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on conversational based chatbot", "Built a web application for Barclays Agents using frontend and backend technologies"],
+    "imageSrc": "history/barclays.png"
+  },
+  {
+    "role": "Software Engineer I",
+    "organisation": "Barclays",
+    "startDate": "August, 2020",
+    "endDate": "September, 2022",
+    "experiences": ["Worked on asynchronous chat builiding platform in AWS", "Integrated REST API with AWS Lambda functions"],
+    "imageSrc": "history/barclays.png"
+  },
+  {
+    "role": "Software Intern",
+    "organisation": "Seagate",
+    "startDate": "July, 2019",
+    "endDate": "May, 2020",
+    "experiences": ["Developed python automation scripts", "Deployed results over the AWS cloud"],
+    "imageSrc": "history/seagate.png"
+  }
+]
