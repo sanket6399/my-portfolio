@@ -1,0 +1,17 @@
+[
+    {
+      "role": "Master of Science Computer Science",
+      "organisation": "San Jose State University, California",
+      "startDate": "August, 2023",
+      "endDate": "May, 2025",
+      "imageSrc": "education/sjsu.png"
+    },
+    {
+      "role": "Bachelor of Technology Computer Engineering",
+      "organisation": "Vishwakarma Institute of Technology, India",
+      "startDate": "August, 2016",
+      "endDate": "October, 2020",
+      "imageSrc": "education/vit.png"
+    }
+  ]
+  

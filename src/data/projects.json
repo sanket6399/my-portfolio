@@ -2,7 +2,7 @@
   {
     "title": "Credit Risk Management Using ML with XAI",
     "imageSrc": "projects/project.png",
-    "description": "Spearheaded a Credit Risk Management project utilizing Machine Learning with eXplainable AI (XAI), enhancing predictive accuracy and transparency in assessing credit risks.",
+    "description": "Spearheaded a Credit Risk Management project utilizing Machine Learning with eXplainable AI (XAI), enhancing predictive accuracy and transparency in assessing credit risks for financial institutions.",
     "skills": ["ML", "Big Data", "AI", "Flask", "Docker"],
     "source": "https://github.com/sanket6399/credit_risk_management"
   },
