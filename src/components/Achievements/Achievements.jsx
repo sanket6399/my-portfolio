@@ -3,7 +3,7 @@ import styles from "./Achievements.module.css";
 import education from "../../data/achievements.json";
 
 export const Achievements = () => {
-  return <section className={styles.container} id = "education">
+  return <section className={styles.container} id = "achievements">
     <h2 className={styles.title}>Achievements</h2>
       <div className={styles.content}>
       <ul className={styles.education}>
