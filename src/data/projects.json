@@ -14,17 +14,22 @@
     "source": "https://github.com/sanket6399/News_Clustering_Comparisons"
   },
   {
-    "title": "Resource Allocation Framework using Salesforce",
-    "imageSrc": "projects/framework.png",
-    "description": "Pioneered the development of an IoT-based Smart City system integrating advanced Image Processing techniques, fostering efficient urban management and enhancing the overall quality of life.",
-    "skills": ["REST", "Salesforce", "SOQL", "Apex"],
-    "source": "https://www.github.com/sanket6399/"
+    "title": "Spartan MyComapnion",
+    "imageSrc": "projects/spartan.png",
+    "description": "Developed a full-stack web application enabling SJSU students to post events, connect through chat rooms, vote, and reply to posts. Leveraged AWS services like DynamoDB, Lambda, Amplify, and S3 for scalable functionalities.",
+    "skills": [
+      "ReactJS",
+      "Amplify",
+      "DynamoDB",
+      "Lambda"
+    ],
+    "source": "https://github.com/sanket6399/spartan-my-companion-frontend"
   },
   {
     "title": "IOT Based Smart City using Image Processing",
     "imageSrc": "projects/iot.png",
     "description": "Pioneered the development of an IoT-based Smart City system integrating advanced Image Processing techniques, fostering efficient urban management and enhancing the overall quality of life.",
-    "skills": ["Python", "OpenCV", "Arduino Programming"],
+    "skills": ["Python", "OpenCV", "C++" ,"Arduino Programming"],
     "source": "https://ieeexplore.ieee.org/document/9214157"
   }
 ]

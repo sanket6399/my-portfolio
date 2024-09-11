@@ -8,6 +8,7 @@ import { Experience} from './components/Experience/Experience';
 import { Projects } from './components/Projects/Projects';
 import { Education } from './components/Education/Education';
 import { Contact } from './components/Contact/Contact';
+import { Achievements } from './components/Achievements/Achievements';
 function App() {
   
   return (
@@ -18,6 +19,7 @@ function App() {
       <Experience/>
       <Projects/>
       <Education/>
+      <Achievements/>
       <Contact/>
     </div>
   )

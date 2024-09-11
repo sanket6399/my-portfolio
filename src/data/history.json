@@ -1,5 +1,13 @@
 [
   {
+    "role": "Software Engineer Intern",
+    "organisation": "Samsung",
+    "startDate": "June, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Created web application using React js and Python", "Integrated with Llama3 and utilized NLP for test log processings"],
+    "imageSrc": "history/samsung.png"
+  },
+  {
     "role": "Software Engineer II",
     "organisation": "Barclays",
     "startDate": "October, 2022",
